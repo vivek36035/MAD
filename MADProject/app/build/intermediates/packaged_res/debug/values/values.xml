@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#1DE9B6</color>
+    <color name="bg_dark">#0A0A0B</color>
+    <color name="black">#000000</color>
+    <color name="card_bg">#1A1A1A</color>
+    <color name="card_stroke">#1AFFFFFF</color>
+    <color name="divider">#262626</color>
+    <color name="get_green">#34C759</color>
+    <color name="give_red">#FF3B30</color>
+    <color name="gradient_end">#1DE9B6</color>
+    <color name="gradient_start">#00C853</color>
+    <color name="primary">#00E676</color>
+    <color name="primary_variant">#00A444</color>
+    <color name="surface_dark">#121214</color>
+    <color name="text_hint">#616161</color>
+    <color name="text_primary">#F5F5F7</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="white">#FFFFFF</color>
+    <style name="GradientCard" parent="PremiumCard">
+        <item name="cardBackgroundColor">@android:color/transparent</item>
+    </style>
+    <style name="PremiumCard" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">20dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardBackgroundColor">@color/card_bg</item>
+        <item name="android:layout_margin">8dp</item>
+    </style>
+    <style name="Theme.HisabKitab" parent="Theme.Material3.Dark.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/surface_dark</item>
+        <item name="colorOnPrimaryContainer">@color/primary</item>
+        
+        
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        
+        
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="colorSurface">@color/surface_dark</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        
+        
+        <item name="android:fontFamily">sans-serif-medium</item>
+        
+        
+        <item name="bottomNavigationStyle">@style/Widget.App.BottomNavigationView</item>
+    </style>
+    <style name="Widget.App.BottomNavigationView" parent="Widget.Material3.BottomNavigationView">
+        <item name="backgroundColor">@color/surface_dark</item>
+        <item name="itemIconTint">@color/bottom_nav_colors</item>
+        <item name="itemTextColor">@color/bottom_nav_colors</item>
+        <item name="itemRippleColor">@color/primary</item>
+    </style>
+</resources>

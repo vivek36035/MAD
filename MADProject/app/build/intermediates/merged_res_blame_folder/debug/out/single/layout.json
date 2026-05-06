@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.10\\com.premium.ledger.app-mergeDebugResources-43:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.10\\com.premium.ledger.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.10\\com.premium.ledger.app-mergeDebugResources-43:\\layout\\activity_add_expense.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.10\\com.premium.ledger.app-main-46:\\layout\\activity_add_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.10\\com.premium.ledger.app-mergeDebugResources-43:\\layout\\activity_customer_details.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.10\\com.premium.ledger.app-main-46:\\layout\\activity_customer_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.10\\com.premium.ledger.app-mergeDebugResources-43:\\layout\\activity_add_customer.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.10\\com.premium.ledger.app-main-46:\\layout\\activity_add_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.10\\com.premium.ledger.app-mergeDebugResources-43:\\layout\\item_customer.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.10\\com.premium.ledger.app-main-46:\\layout\\item_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.10\\com.premium.ledger.app-mergeDebugResources-43:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.10\\com.premium.ledger.app-main-46:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.10\\com.premium.ledger.app-mergeDebugResources-43:\\layout\\fragment_expenses.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.10\\com.premium.ledger.app-main-46:\\layout\\fragment_expenses.xml"
+    },
+    {
+        "merged": "com.premium.ledger.app-mergeDebugResources-43:/layout/activity_add_customer.xml",
+        "source": "com.premium.ledger.app-main-46:/layout/activity_add_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.10\\com.premium.ledger.app-mergeDebugResources-43:\\layout\\fragment_reports.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.10\\com.premium.ledger.app-main-46:\\layout\\fragment_reports.xml"
+    }
+]

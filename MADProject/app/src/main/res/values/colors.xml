@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Premium Fintech Theme Palette -->
+    <color name="primary">#00E676</color>
+    <color name="primary_variant">#00A444</color>
+    <color name="accent">#1DE9B6</color>
+    
+    <!-- Backgrounds -->
+    <color name="bg_dark">#0A0A0B</color>
+    <color name="surface_dark">#121214</color>
+    <color name="card_bg">#1A1A1A</color>
+    <color name="divider">#262626</color>
+    
+    <!-- Text -->
+    <color name="text_primary">#F5F5F7</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="text_hint">#616161</color>
+    
+    <!-- Accent Colors -->
+    <color name="get_green">#34C759</color>
+    <color name="give_red">#FF3B30</color>
+    <color name="card_stroke">#1AFFFFFF</color>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    
+    <!-- Gradients -->
+    <color name="gradient_start">#00C853</color>
+    <color name="gradient_end">#1DE9B6</color>
+</resources>

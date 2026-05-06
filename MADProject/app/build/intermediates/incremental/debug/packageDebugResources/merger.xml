@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\MAD\MADProject\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\MAD\MADProject\app\src\main\res"><file name="slide_in_up" path="D:\MAD\MADProject\app\src\main\res\anim\slide_in_up.xml" qualifiers="" type="anim"/><file name="bottom_nav_colors" path="D:\MAD\MADProject\app\src\main\res\color\bottom_nav_colors.xml" qualifiers="" type="color"/><file name="bg_bottom_nav" path="D:\MAD\MADProject\app\src\main\res\drawable\bg_bottom_nav.xml" qualifiers="" type="drawable"/><file name="bg_gradient_green" path="D:\MAD\MADProject\app\src\main\res\drawable\bg_gradient_green.xml" qualifiers="" type="drawable"/><file name="activity_main" path="D:\MAD\MADProject\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="fragment_expenses" path="D:\MAD\MADProject\app\src\main\res\layout\fragment_expenses.xml" qualifiers="" type="layout"/><file name="fragment_home" path="D:\MAD\MADProject\app\src\main\res\layout\fragment_home.xml" qualifiers="" type="layout"/><file name="fragment_reports" path="D:\MAD\MADProject\app\src\main\res\layout\fragment_reports.xml" qualifiers="" type="layout"/><file name="item_customer" path="D:\MAD\MADProject\app\src\main\res\layout\item_customer.xml" qualifiers="" type="layout"/><file name="bottom_nav_menu" path="D:\MAD\MADProject\app\src\main\res\menu\bottom_nav_menu.xml" qualifiers="" type="menu"/><file name="mobile_navigation" path="D:\MAD\MADProject\app\src\main\res\navigation\mobile_navigation.xml" qualifiers="" type="navigation"/><file path="D:\MAD\MADProject\app\src\main\res\values\colors.xml" qualifiers=""><color name="primary">#00E676</color><color name="primary_variant">#00A444</color><color name="accent">#1DE9B6</color><color name="bg_dark">#0A0A0B</color><color name="surface_dark">#121214</color><color name="card_bg">#1A1A1A</color><color name="divider">#262626</color><color name="text_primary">#F5F5F7</color><color name="text_secondary">#8E8E93</color><color name="text_hint">#616161</color><color name="get_green">#34C759</color><color name="give_red">#FF3B30</color><color name="gradient_start">#00C853</color><color name="gradient_end">#1DE9B6</color><color name="black">#000000</color><color name="white">#FFFFFF</color><color name="card_stroke">#1AFFFFFF</color></file><file path="D:\MAD\MADProject\app\src\main\res\values\themes.xml" qualifiers=""><style name="Widget.App.BottomNavigationView" parent="Widget.Material3.BottomNavigationView">
+        <item name="backgroundColor">@color/surface_dark</item>
+        <item name="itemIconTint">@color/bottom_nav_colors</item>
+        <item name="itemTextColor">@color/bottom_nav_colors</item>
+        <item name="itemRippleColor">@color/primary</item>
+    </style><style name="PremiumCard" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">20dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardBackgroundColor">@color/card_bg</item>
+        <item name="android:layout_margin">8dp</item>
+    </style><style name="GradientCard" parent="PremiumCard">
+        <item name="cardBackgroundColor">@android:color/transparent</item>
+    </style><style name="Theme.HisabKitab" parent="Theme.Material3.Dark.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/surface_dark</item>
+        <item name="colorOnPrimaryContainer">@color/primary</item>
+        
+        
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        
+        
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="colorSurface">@color/surface_dark</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        
+        
+        <item name="android:fontFamily">sans-serif-medium</item>
+        
+        
+        <item name="bottomNavigationStyle">@style/Widget.App.BottomNavigationView</item>
+    </style></file><file name="activity_add_customer" path="D:\MAD\MADProject\app\src\main\res\layout\activity_add_customer.xml" qualifiers="" type="layout"/><file name="activity_add_expense" path="D:\MAD\MADProject\app\src\main\res\layout\activity_add_expense.xml" qualifiers="" type="layout"/><file name="activity_customer_details" path="D:\MAD\MADProject\app\src\main\res\layout\activity_customer_details.xml" qualifiers="" type="layout"/><file name="bg_card" path="D:\MAD\MADProject\app\src\main\res\drawable\bg_card.xml" qualifiers="" type="drawable"/><file name="app_logo" path="D:\MAD\MADProject\app\src\main\res\drawable\app_logo.png" qualifiers="" type="drawable"/><file name="ic_launcher" path="D:\MAD\MADProject\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="D:\MAD\MADProject\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\MAD\MADProject\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\MAD\MADProject\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\MAD\MADProject\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\MAD\MADProject\app\build\generated\res\resValues\debug"/></dataSet><mergedItems/></merger>
