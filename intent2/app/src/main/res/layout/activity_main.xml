@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp">
+
+    <Button
+        android:id="@+id/btnFacebook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Facebook"/>
+
+    <Button
+        android:id="@+id/btnInstagram"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Instagram"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/btnWhatsApp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open WhatsApp"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/btnYouTube"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open YouTube"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/btnTwitter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Twitter (X)"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>
